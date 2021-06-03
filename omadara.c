@@ -2,6 +2,6 @@
 
 int main(){
 
-    printf(" omadara ");
+    printf(" eimaste omadara ");
     return 0;
 }
